@@ -9,7 +9,7 @@ Soy un apasionado de la programación. Tuve mis comienzos de forma autodidacta c
 Actualmente soy el responsable SAT en Atlas Romero S.L.U. encargado de mantenimiento y verificación de equipos propios de clientes:
 
 
-<p align="center">
+<p align="center" style="background-color: #ffffff; padding: 20px; border-radius: 8px;">
   <!-- Köttermann -->
   <a href="[https://bayer.com](https://www.bayer.com/es/es/espana-home)" target="_blank" title="Köttermann">
     <img src="./images/logo_koettermann.svg" alt="Köttermann" height="55" style="margin: 20px;"/>

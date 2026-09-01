@@ -45,6 +45,8 @@ Actualmente soy el responsable SAT en Atlas Romero S.L.U. encargado de mantenimi
   </a>
 </p>
 
-[![Köttermann](./images/logo_koettermann.svg#gh-light-mode-only)](https://koettermann.com) [![Köttermann](./images/logo_koettermann.svg#gh-dark-mode-only)](https://koettermann.com) [![Bayer Hispania](./images/logo_bayer.svg#gh-light-mode-only)](https://bayer.com) [![Bayer Hispania](./images/logo_bayer.svg#gh-dark-mode-only)](https://bayer.com) [![Foresa](./images/logo_foresa_tech.png#gh-light-mode-only)](https://foresatechnologies.com) [![Foresa](./images/logo_foresa_tech.png#gh-dark-mode-only)](https://foresatechnologies.com) [![Nestlé Pontecesures](./images/logo_nestle.svg#gh-light-mode-only)](https://nestle.es) [![Nestlé Pontecesures](./images/logo_nestle.svg#gh-dark-mode-only)](https://nestle.es)
+| Köttermann | Bayer Hispania | Foresa | Nestlé Pontecesures |
+| :---: | :---: | :---: | :---: |
+| [![Köttermann](https://shields.io)](https://koettermann.com) | [![Bayer](https://shields.io)](https://bayer.com) | [![Foresa](https://shields.io)](https://foresatechnologies.com) | [![Nestle](https://shields.io)](https://nestle.es) |
 
 

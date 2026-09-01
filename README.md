@@ -11,22 +11,22 @@ Actualmente soy el responsable SAT en Atlas Romero S.L.U. encargado de mantenimi
 
 <p align="center" style="background-color: #ffffff; padding: 20px; border-radius: 8px;">
   <!-- Köttermann -->
-  <a href="[https://koettermann.com](https://www.koettermann.com/es/)" target="_blank" title="Köttermann">
+  <a href="https://www.koettermann.com/es/" target="_blank" title="Köttermann">
     <img src="./images/logo_koettermann.svg" alt="Köttermann" height="55" style="margin: 20px;"/>
   </a>
   
   <!-- Bayer Hispania -->
-  <a href="[https://bayer.com](https://www.bayer.com/es/es/espana-home)" target="_blank" title="Bayer Hispania">
+  <a href="https://www.bayer.com/es/es/espana-home" target="_blank" title="Bayer Hispania">
     <img src="./images/logo_bayer.svg" alt="Bayer Hispania" height="55" style="margin: 20px;"/>
   </a>
   
   <!-- Foresa -->
-  <a href="[https://foresa.com](https://foresatechnologies.com/)" target="_blank" title="Foresa">
+  <a href="https://foresatechnologies.com/" target="_blank" title="Foresa">
     <img src="./images/logo_foresa_tech.png" alt="Foresa" height="55" style="margin: 20px;"/>
   </a>
   
   <!-- Nestlé Pontecesures -->
-  <a href="[https://nestle.es](https://empresa.nestle.es/es)" target="_blank" title="Nestlé Pontecesures">
+  <a href="https://empresa.nestle.es/es" target="_blank" title="Nestlé Pontecesures">
     <img src="./images/logo_nestle.svg" alt="Nestlé Pontecesures" height="55" style="margin: 20px;"/>
   </a>
 </p>

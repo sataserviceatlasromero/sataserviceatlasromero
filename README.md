@@ -46,8 +46,19 @@ Actualmente soy el responsable SAT en Atlas Romero S.L.U. encargado de mantenimi
 </p>
 
 
-| Köttermann | Bayer Hispania | Foresa | Nestlé Pontecesures |
-| :---: | :---: | :---: | :---: |
-| <td bgcolor="#ffffff" align="center" valign="middle"><a href="https://koettermann.com" target="_blank"><img src="./images/logo_koettermann.svg" alt="Köttermann" width="140"/></a></td> | <td bgcolor="#ffffff" align="center" valign="middle"><a href="https://bayer.com" target="_blank"><img src="./images/logo_bayer.svg" alt="Bayer" width="140"/></a></td> | <td bgcolor="#ffffff" align="center" valign="middle"><a href="https://foresatechnologies.com/" target="_blank"><img src="./images/logo_foresa_tech.png" alt="Foresa" width="140"/></a></td> | <td bgcolor="#ffffff" align="center" valign="middle"><a href="https://nestle.es" target="_blank"><img src="./images/logo_nestle.svg" alt="Nestlé" width="140"/></a></td> |
+<p align="center">
+  <a href="https://koettermann.com" target="_blank">
+    <img src="https://wikimedia.org" alt="Köttermann" height="45" style="margin: 15px; display: inline-block;" />
+  </a>
+  <a href="https://bayer.com" target="_blank">
+    <img src="https://wikimedia.org" alt="Bayer Hispania" height="45" style="margin: 15px; display: inline-block;" />
+  </a>
+  <a href="https://foresatechnologies.com" target="_blank">
+    <img src="./images/logo_foresa_tech.png" alt="Foresa" height="45" style="margin: 15px; display: inline-block;" />
+  </a>
+  <a href="https://nestle.es" target="_blank">
+    <img src="https://wikimedia.org" alt="Nestlé Pontecesures" height="45" style="margin: 15px; display: inline-block;" />
+  </a>
+</p>
 
 

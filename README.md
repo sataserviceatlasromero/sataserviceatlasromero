@@ -31,20 +31,6 @@ Actualmente soy el responsable SAT en Atlas Romero S.L.U. encargado de mantenimi
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.koettermann.com/es/" target="_blank" title="Köttermann">
-    <img src="./images/logo_koettermann.svg" alt="Köttermann" height="45" style="margin: 15px; display: inline-block;" />
-  </a>
-  <a href="https://www.bayer.com/es/es/espana-home" target="_blank" title="Bayer Hispania">
-    <img src=".images/logo_bayer.svg" alt="Bayer Hispania" height="45" style="margin: 15px; display: inline-block;" />
-  </a>
-  <a href="https://foresatechnologies.com/" target="_blank" title="Foresa">
-    <img src="./images/logo_foresa_tech.png" alt="Foresa" height="45" style="margin: 15px; display: inline-block;" />
-  </a>
-  <a href="https://empresa.nestle.es/es" target="_blank" title="Nestlé Pontecesures">
-    <img src="./images/logo_nestle.svg" alt="Nestlé Pontecesures" height="45" style="margin: 15px; display: inline-block;" />
-  </a>
-</p>
 
 
 

@@ -30,3 +30,29 @@ Actualmente soy el responsable SAT en Atlas Romero S.L.U. encargado de mantenimi
     <img src="./images/logo_nestle.svg" alt="Nestlé Pontecesures" height="55" style="margin: 20px;"/>
   </a>
 </p>
+<p align="center">
+  <!-- Bayer Hispania -->
+  <a href="https://bayer.com" target="_blank" title="Bayer Hispania">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://shields.io">
+      <img src="https://wikimedia.org" alt="Bayer Hispania" height="50" style="margin: 15px; vertical-align: middle;"/>
+    </picture>
+  </a>
+
+  <!-- Foresa -->
+  <a href="https://foresa.com" target="_blank" title="Foresa">
+    <picture>
+      <!-- En modo oscuro le inyectamos un fondo claro detrás al logo mediante un truco de badge o imagen alternativa -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://weserv.nl">
+      <img src="https://foresa.comwp-content/themes/foresa-theme/assets/img/logo.png" alt="Foresa" height="50" style="margin: 15px; vertical-align: middle;"/>
+    </picture>
+  </a>
+
+  <!-- Nestlé Pontecesures -->
+  <a href="https://nestle.es" target="_blank" title="Nestlé Pontecesures">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://shields.io">
+      <img src="https://wikimedia.org" alt="Nestlé Pontecesures" height="50" style="margin: 15px; vertical-align: middle;"/>
+    </picture>
+  </a>
+</p>

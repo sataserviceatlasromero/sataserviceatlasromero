@@ -30,35 +30,21 @@ Actualmente soy el responsable SAT en Atlas Romero S.L.U. encargado de mantenimi
     <img src="./images/logo_nestle.svg" alt="Nestlé Pontecesures" height="55" style="margin: 20px;"/>
   </a>
 </p>
-<p align="center">
-  <a href="https://koettermann.com" target="_blank" title="Köttermann">
-    <img src="./images/logo_koettermann.svg#gh-light-mode-only" alt="Köttermann" height="55" style="margin: 20px;"/>
-  </a>
-  <a href="https://bayer.com" target="_blank" title="Bayer Hispania">
-    <img src="./images/logo_bayer.svg#gh-light-mode-only" alt="Bayer Hispania" height="55" style="margin: 20px;"/>
-  </a>
-  <a href="https://foresatechnologies.com" target="_blank" title="Foresa">
-    <img src="./images/logo_foresa_tech.png#gh-light-mode-only" alt="Foresa" height="55" style="margin: 20px;"/>
-  </a>
-  <a href="https://nestle.es" target="_blank" title="Nestlé Pontecesures">
-    <img src="./images/logo_nestle.svg#gh-light-mode-only" alt="Nestlé Pontecesures" height="55" style="margin: 20px;"/>
-  </a>
-</p>
-
 
 <p align="center">
-  <a href="https://koettermann.com" target="_blank">
-    <img src="https://wikimedia.org" alt="Köttermann" height="45" style="margin: 15px; display: inline-block;" />
+  <a href="https://www.koettermann.com/es/" target="_blank" title="Köttermann">
+    <img src="./images/logo_koettermann.svg" alt="Köttermann" height="45" style="margin: 15px; display: inline-block;" />
   </a>
-  <a href="https://bayer.com" target="_blank">
-    <img src="https://wikimedia.org" alt="Bayer Hispania" height="45" style="margin: 15px; display: inline-block;" />
+  <a href="https://www.bayer.com/es/es/espana-home" target="_blank" title="Bayer Hispania">
+    <img src=".images/log_bayer.svg" alt="Bayer Hispania" height="45" style="margin: 15px; display: inline-block;" />
   </a>
-  <a href="https://foresatechnologies.com" target="_blank">
+  <a href="https://foresatechnologies.com/" target="_blank" title="Foresa">
     <img src="./images/logo_foresa_tech.png" alt="Foresa" height="45" style="margin: 15px; display: inline-block;" />
   </a>
-  <a href="https://nestle.es" target="_blank">
-    <img src="https://wikimedia.org" alt="Nestlé Pontecesures" height="45" style="margin: 15px; display: inline-block;" />
+  <a href="https://empresa.nestle.es/es" target="_blank" title="Nestlé Pontecesures">
+    <img src="./images/logo_nestle.svg" alt="Nestlé Pontecesures" height="45" style="margin: 15px; display: inline-block;" />
   </a>
 </p>
+
 
 

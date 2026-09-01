@@ -11,7 +11,7 @@ Actualmente soy el responsable SAT en Atlas Romero S.L.U. encargado de mantenimi
 
 <p align="center">
   <!-- Bayer Hispania -->
-  <a href="https://bayer.com" target="_blank" title="Bayer Hispania">
+  <a href="[https://bayer.com](https://www.bayer.com/es/es/espana-home)" target="_blank" title="Bayer Hispania">
     <img src="./images/logo_bayer.svg" alt="Bayer Hispania" height="55" style="margin: 20px;"/>
   </a>
   
@@ -21,7 +21,7 @@ Actualmente soy el responsable SAT en Atlas Romero S.L.U. encargado de mantenimi
   </a>
   
   <!-- Nestlé Pontecesures -->
-  <a href="https://nestle.es" target="_blank" title="Nestlé Pontecesures">
-    <img src="./images/nestle.svg" alt="Nestlé Pontecesures" height="55" style="margin: 20px;"/>
+  <a href="[https://nestle.es](https://empresa.nestle.es/es)" target="_blank" title="Nestlé Pontecesures">
+    <img src="./images/logo_nestle.svg" alt="Nestlé Pontecesures" height="55" style="margin: 20px;"/>
   </a>
 </p>

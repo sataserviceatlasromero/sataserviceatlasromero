@@ -32,33 +32,36 @@ Actualmente soy el responsable SAT en Atlas Romero S.L.U. encargado de mantenimi
 </p>
 <p align="center">
   <!-- Köttermann -->
-  <a href="[https://koettermann.com](https://www.koettermann.com/es/)" target="_blank" title="Köttermann">
-    <source media="(prefers-color-scheme: dark)" srcset="https://shields.io">
-    <img src="./images/logo_koettermann.svg" alt="Köttermann" height="55" style="margin: 20px;"/>
+  <a href="https://www.koettermann.com/es/" target="_blank" title="Köttermann">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://shields.io">
+      <img src="./images/logo_koettermann.svg" alt="Köttermann" height="55" style="margin: 20px; vertical-align: middle;"/>
+    </picture>
   </a>
   
   <!-- Bayer Hispania -->
-  <a href="[https://bayer.com](https://www.bayer.com/es/es/espana-home)" target="_blank" title="Bayer Hispania">
+  <a href="https://www.bayer.com/es/es/espana-home" target="_blank" title="Bayer Hispania">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://shields.io">
-      <img src="./images/logo_bayer.svg" alt="Bayer Hispania" height="55" style="margin: 20px;"/>
+      <img src="./images/logo_bayer.svg" alt="Bayer Hispania" height="55" style="margin: 20px; vertical-align: middle;"/>
     </picture>
   </a>
 
   <!-- Foresa -->
-  <a href="[https://foresa.com](https://foresatechnologies.com/)" target="_blank" title="Foresa">
+  <a href="https://foresatechnologies.com/" target="_blank" title="Foresa">
     <picture>
-      <!-- En modo oscuro le inyectamos un fondo claro detrás al logo mediante un truco de badge o imagen alternativa -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://weserv.nl">
-      <img src="./images/logo_foresa_tech.png" alt="Foresa" height="55" style="margin: 20px;"/>
+      <!-- El servicio de wsrv.nl necesita una URL web pública para procesar la imagen; si usas ruta local, usamos un botón genérico estilizado -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://shields.io">
+      <img src="./images/logo_foresa_tech.png" alt="Foresa" height="55" style="margin: 20px; vertical-align: middle;"/>
     </picture>
   </a>
 
   <!-- Nestlé Pontecesures -->
-  <a href="[https://nestle.es](https://empresa.nestle.es/es)" target="_blank" title="Nestlé Pontecesures">
+  <a href="https://empresa.nestle.es/es" target="_blank" title="Nestlé Pontecesures">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://shields.io">
-      <img src="./images/logo_nestle.svg" alt="Nestlé Pontecesures" height="55" style="margin: 20px;"/>
+      <img src="./images/logo_nestle.svg" alt="Nestlé Pontecesures" height="55" style="margin: 20px; vertical-align: middle;"/>
     </picture>
   </a>
 </p>
+

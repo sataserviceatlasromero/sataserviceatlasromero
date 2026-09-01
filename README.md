@@ -10,6 +10,11 @@ Actualmente soy el responsable SAT en Atlas Romero S.L.U. encargado de mantenimi
 
 
 <p align="center">
+  <!-- Köttermann -->
+  <a href="[[https://bayer.com](https://www.bayer.com/es/es/espana-home)]" target="_blank" title="Köttermann">
+    <img src="./images/logo_kottermann.svg" alt="Köttermann" height="55" style="margin: 20px;"/>
+  </a>
+  
   <!-- Bayer Hispania -->
   <a href="[https://bayer.com](https://www.bayer.com/es/es/espana-home)" target="_blank" title="Bayer Hispania">
     <img src="./images/logo_bayer.svg" alt="Bayer Hispania" height="55" style="margin: 20px;"/>
@@ -25,3 +30,4 @@ Actualmente soy el responsable SAT en Atlas Romero S.L.U. encargado de mantenimi
     <img src="./images/logo_nestle.svg" alt="Nestlé Pontecesures" height="55" style="margin: 20px;"/>
   </a>
 </p>
+https://www.koettermann.com/es/

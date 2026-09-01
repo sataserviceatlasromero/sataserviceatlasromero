@@ -31,11 +31,17 @@ Actualmente soy el responsable SAT en Atlas Romero S.L.U. encargado de mantenimi
   </a>
 </p>
 <p align="center">
+  <!-- Köttermann -->
+  <a href="[https://bayer.com](https://www.bayer.com/es/es/espana-home)" target="_blank" title="Köttermann">
+    <source media="(prefers-color-scheme: dark)" srcset="https://shields.io">
+    <img src="./images/logo_koettermann.svg" alt="Köttermann" height="55" style="margin: 20px;"/>
+  </a>
+  
   <!-- Bayer Hispania -->
   <a href="https://bayer.com" target="_blank" title="Bayer Hispania">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://shields.io">
-      <img src="https://wikimedia.org" alt="Bayer Hispania" height="50" style="margin: 15px; vertical-align: middle;"/>
+      <img src="./images/logo_bayer.svg" alt="Bayer Hispania" height="55" style="margin: 20px;"/>
     </picture>
   </a>
 
@@ -44,7 +50,7 @@ Actualmente soy el responsable SAT en Atlas Romero S.L.U. encargado de mantenimi
     <picture>
       <!-- En modo oscuro le inyectamos un fondo claro detrás al logo mediante un truco de badge o imagen alternativa -->
       <source media="(prefers-color-scheme: dark)" srcset="https://weserv.nl">
-      <img src="https://foresa.comwp-content/themes/foresa-theme/assets/img/logo.png" alt="Foresa" height="50" style="margin: 15px; vertical-align: middle;"/>
+      <img src="./images/logo_foresa_tech.png" alt="Foresa" height="55" style="margin: 20px;"/>
     </picture>
   </a>
 
@@ -52,7 +58,7 @@ Actualmente soy el responsable SAT en Atlas Romero S.L.U. encargado de mantenimi
   <a href="https://nestle.es" target="_blank" title="Nestlé Pontecesures">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://shields.io">
-      <img src="https://wikimedia.org" alt="Nestlé Pontecesures" height="50" style="margin: 15px; vertical-align: middle;"/>
+      <img src="./images/logo_nestle.svg" alt="Nestlé Pontecesures" height="55" style="margin: 20px;"/>
     </picture>
   </a>
 </p>

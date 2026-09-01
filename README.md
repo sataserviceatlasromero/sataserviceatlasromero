@@ -31,28 +31,18 @@ Actualmente soy el responsable SAT en Atlas Romero S.L.U. encargado de mantenimi
   </a>
 </p>
 <p align="center">
-  <!-- Köttermann -->
-  <a href="https://www.koettermann.com/es/" target="_blank" title="Köttermann">
+  <a href="https://koettermann.com" target="_blank" title="Köttermann">
     <img src="./images/logo_koettermann.svg#gh-light-mode-only" alt="Köttermann" height="55" style="margin: 20px;"/>
-    <img src="./images/logo_koettermann.svg#gh-dark-mode-only" alt="Köttermann" height="55" style="margin: 20px; background-color: #ffffff; padding: 5px; border-radius: 4px;"/>
   </a>
-  
-  <!-- Bayer Hispania -->
-  <a href="https://www.bayer.com/es/es/espana-home" target="_blank" title="Bayer Hispania">
+  <a href="https://bayer.com" target="_blank" title="Bayer Hispania">
     <img src="./images/logo_bayer.svg#gh-light-mode-only" alt="Bayer Hispania" height="55" style="margin: 20px;"/>
-    <img src="./images/logo_bayer.svg#gh-dark-mode-only" alt="Bayer Hispania" height="55" style="margin: 20px; background-color: #ffffff; padding: 5px; border-radius: 4px;"/>
   </a>
-  
-  <!-- Foresa -->
-  <a href="https://foresatechnologies.com/" target="_blank" title="Foresa">
+  <a href="https://foresatechnologies.com" target="_blank" title="Foresa">
     <img src="./images/logo_foresa_tech.png#gh-light-mode-only" alt="Foresa" height="55" style="margin: 20px;"/>
-    <img src="./images/logo_foresa_tech.png#gh-dark-mode-only" alt="Foresa" height="55" style="margin: 20px; background-color: #ffffff; padding: 5px; border-radius: 4px;"/>
   </a>
-  
-  <!-- Nestlé Pontecesures -->
-  <a href="https://empresa.nestle.es/es" target="_blank" title="Nestlé Pontecesures">
+  <a href="https://nestle.es" target="_blank" title="Nestlé Pontecesures">
     <img src="./images/logo_nestle.svg#gh-light-mode-only" alt="Nestlé Pontecesures" height="55" style="margin: 20px;"/>
-    <img src="./images/logo_nestle.svg#gh-dark-mode-only" alt="Nestlé Pontecesures" height="55" style="margin: 20px; background-color: #ffffff; padding: 5px; border-radius: 4px;"/>
   </a>
 </p>
+
 
